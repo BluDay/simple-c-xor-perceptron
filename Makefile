@@ -1,6 +1,8 @@
 # ( 0 _ o )
 
-all:
-	gcc -Wall -l m src/main.c -o bin/xor_perceptron
+# Last updated: 2020-06-17 23:53 UTC+1
 
-	chmod 755 bin/xor_perceptron
+all:
+	gcc -Wall -l m main.c -o xor_perceptron
+
+	chmod 755 xor_perceptron

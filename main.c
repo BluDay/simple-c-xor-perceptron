@@ -1,6 +1,6 @@
 // ( 0 _ o )
 
-// Last updated: 2020-06-26
+// Last updated: 2020-06-26 10:37 UTC+1
 
 #include <math.h>
 #include <stdio.h>
